@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    background-color: lightslategray;
+    justify-content: space-between;
+}
+.box1 {
+    height: 20vh;
+    width: 20vh;
+    background-color: aqua;
+}
+.box2 {
+    height: 20vh;
+    width: 20vh;
+    background-color: chocolate;
+}
+.box3 {
+    height: 20vh;
+    width: 20vh;
+    background-color: indianred;
+}
